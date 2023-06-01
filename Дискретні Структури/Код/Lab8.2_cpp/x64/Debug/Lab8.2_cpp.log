@@ -1,0 +1,7 @@
+﻿  Lab8.2_cpp.cpp
+H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\Lab8.2_cpp.cpp(53,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\Lab8.2_cpp.cpp(57,19): warning C4101: 'end': unreferenced local variable
+H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\Lab8.2_cpp.cpp(56,19): warning C4101: 'ncols': unreferenced local variable
+H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\Lab8.2_cpp.cpp(57,12): warning C4101: 'start': unreferenced local variable
+H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\Lab8.2_cpp.cpp(56,12): warning C4101: 'nrows': unreferenced local variable
+  Lab8.2_cpp.vcxproj -> H:\University\2 курс\2 семестр\Дискретні Структури\Код\Lab8.2_cpp\x64\Debug\Lab8.2_cpp.exe
