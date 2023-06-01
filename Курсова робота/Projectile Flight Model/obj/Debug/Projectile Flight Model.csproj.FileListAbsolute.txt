@@ -1,0 +1,24 @@
+H:\University\2 курс\2 семестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+H:\University\2 курс\2 семестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+H:\University\2 курс\2 семестр\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\Projectile Flight Model.csproj.AssemblyReference.cache
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\Projectile Flight Model.csproj.SuggestedBindingRedirects.cache
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\Projectile Flight Model.csproj.GenerateResource.cache
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\Projectile Flight Model.csproj.CoreCompileInputs.cache
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+H:\University\2 курс\2 семестр\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\bin\Debug\WindowsFormsApp1.exe.config
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\bin\Debug\WindowsFormsApp1.exe
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\bin\Debug\WindowsFormsApp1.pdb
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\Projectile Flight Model.csproj.AssemblyReference.cache
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\Projectile Flight Model.csproj.SuggestedBindingRedirects.cache
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.Form1.resources
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\Projectile Flight Model.csproj.GenerateResource.cache
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\Projectile Flight Model.csproj.CoreCompileInputs.cache
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.exe
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.pdb
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.ProjectilesBase.resources
+H:\University\2 курс\2 семестр\Курсова робота\Projectile Flight Model\obj\Debug\WindowsFormsApp1.AboutBox1.resources

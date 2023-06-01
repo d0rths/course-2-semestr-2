@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Projectile Flight Model", "Projectile Flight Model.csproj", "{058DF074-94C2-4FE9-9C60-E82A2495473B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{058DF074-94C2-4FE9-9C60-E82A2495473B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{058DF074-94C2-4FE9-9C60-E82A2495473B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{058DF074-94C2-4FE9-9C60-E82A2495473B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{058DF074-94C2-4FE9-9C60-E82A2495473B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC3A5DF8-F7DD-4671-B5B5-D04E8E245A7C}
+	EndGlobalSection
+EndGlobal
