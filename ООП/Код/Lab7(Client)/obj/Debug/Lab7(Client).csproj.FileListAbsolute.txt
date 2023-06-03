@@ -1,0 +1,11 @@
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\bin\Debug\Lab7(Client).exe.config
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\bin\Debug\Lab7(Client).exe
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\bin\Debug\Lab7(Client).pdb
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).csproj.AssemblyReference.cache
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).csproj.SuggestedBindingRedirects.cache
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7_Client_.Form1.resources
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7_Client_.Properties.Resources.resources
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).csproj.GenerateResource.cache
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).csproj.CoreCompileInputs.cache
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).exe
+H:\University\2 курс\2 семестр\ООП\Код\Lab7(Client)\obj\Debug\Lab7(Client).pdb
